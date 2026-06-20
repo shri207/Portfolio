@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Salon",
+  "description": "A premium, digital sanctuary for bespoke beauty and wellness treatments, featuring online booking, galleries, pricing packages, and artisan therapists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
